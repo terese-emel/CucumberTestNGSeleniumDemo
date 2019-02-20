@@ -1,0 +1,11 @@
+out/*
+.idea/*
+.gradle/*
+gradle/*
+gradlew
+gradlew.bat
+seleniumeasy.properties
+seleniumeasy.xml
+settings.gradle
+WebDrivers/*
+
